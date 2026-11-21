@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 46" width="160" height="46" role="img" aria-label="去博客逛逛">
-<style>text{font-family:-apple-system,BlinkMacSystemFont,&quot;SF Pro Text&quot;,&quot;PingFang SC&quot;,&quot;Noto Sans SC&quot;,&quot;Microsoft YaHei&quot;,sans-serif}.s{animation:s 4.5s ease-in-out infinite}@keyframes s{0%,60%{transform:translateX(-140%)}100%{transform:translateX(140%)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
-<defs><clipPath id="c"><rect x="1" y="1" width="158" height="44" rx="22.0"/></clipPath><linearGradient id="g" x1="0" x2="1"><stop offset=".3" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".28"/><stop offset=".7" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
-<rect x="1" y="1" width="158" height="44" rx="22.0" fill="#1d1d1f" stroke="rgba(255,255,255,0.22)"/>
-<g clip-path="url(#c)"><rect class="s" width="160" height="46" fill="url(#g)"/></g>
-<g transform="translate(20,13)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.500 10 3l7 6.500V17a1 1 0 0 1-1 1h-3.500v-5h-5v5H4a1 1 0 0 1-1-1z"/></g><text x="91" y="29" text-anchor="middle" font-size="15.5" font-weight="700" fill="#ffffff">去博客逛逛</text>
-</svg>
