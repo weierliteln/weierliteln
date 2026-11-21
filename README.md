@@ -7,4 +7,8 @@
   </picture>
 </a>
 
+<p>
+微信 <code>l1829305199</code> &nbsp;·&nbsp; 博客 <a href="https://applepie-blog.vercel.app">applepie-blog.vercel.app</a>
+</p>
+
 </div>
