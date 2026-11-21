@@ -3,7 +3,7 @@
 <a href="https://applepie-blog.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img src="./assets/banner-light.svg" alt="苹果派 · weierliteln —— 写点文章,做点小站。常用语言:Vue、JavaScript、HTML、SCSS、CSS、TypeScript。" width="100%">
+    <img src="./assets/banner-light.svg" alt="苹果派 · weierliteln。常用语言:Vue、JavaScript、HTML、SCSS、CSS、TypeScript。" width="100%">
   </picture>
 </a>
 
