@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141 46" width="141" height="46" role="img" aria-label="全部文章">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,&quot;SF Pro Text&quot;,&quot;PingFang SC&quot;,&quot;Noto Sans SC&quot;,&quot;Microsoft YaHei&quot;,sans-serif}.s{animation:s 4.5s ease-in-out infinite}@keyframes s{0%,60%{transform:translateX(-140%)}100%{transform:translateX(140%)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><clipPath id="c"><rect x="1" y="1" width="139" height="44" rx="22.0"/></clipPath><linearGradient id="g" x1="0" x2="1"><stop offset=".3" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".0"/><stop offset=".7" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="139" height="44" rx="22.0" fill="#ffffff" stroke="rgba(29,29,31,0.12)"/>
+<g clip-path="url(#c)"><rect class="s" width="141" height="46" fill="url(#g)"/></g>
+<g transform="translate(20,13)" fill="none" stroke="#1d1d1f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.500 3.500l4 4L7 17H3v-4z"/></g><text x="81" y="29" text-anchor="middle" font-size="15.5" font-weight="700" fill="#1d1d1f">全部文章</text>
+</svg>
