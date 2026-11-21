@@ -1,13 +1,13 @@
-# 你好，我是 weierliteln
+![ApplePie · weierliteln](./assets/profile-banner.svg)
 
-我做全栈开发。喜欢把学习中遇到的问题做成能用的小工具，也会花时间把页面做得好读、好用。
+## 我的两个项目
 
-## 公开项目
+**01　[苹果派的博客](https://applepie-blog.vercel.app)**  
+写开发笔记，也记下做项目时踩过的坑。
 
-- [ChatAI](https://github.com/weierliteln/ChatAI)：用 Node.js 接入 Kimi，做一个可以在浏览器里使用的聊天应用。
-- [Easy-map](https://github.com/weierliteln/Easy-map)：用高德地图做定位和路线规划，用模拟数据展示附近停车场。
+**02　学习书架**  
+把一课一课的学习记录整理成书，方便复习、做笔记和接着读。
 
-## 最近关注
+---
 
-- **前端**：React、TypeScript、页面性能和技术 SEO。
-- **后端**：Java、Spring Boot，从 API 到数据库，把一个功能完整做出来。
+![GitHub 常用语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=weierliteln&layout=compact&theme=tokyonight)
