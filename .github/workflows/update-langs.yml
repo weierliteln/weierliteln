@@ -1,0 +1,28 @@
+name: 更新常用语言
+
+on:
+  schedule:
+    - cron: "17 19 * * *" # 每天北京时间凌晨 3:17
+  workflow_dispatch: # 也可以在 Actions 页面手动点运行
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/update-langs.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 有变化才提交
+        run: |
+          if git diff --quiet; then echo "数字没变"; exit 0; fi
+          git config user.name "weierliteln"
+          git config user.email "149279834+weierliteln@users.noreply.github.com"
+          git commit -am "Update language stats"
+          git push
